@@ -4,7 +4,7 @@ To run the script, you must have these:</br>
 * Python >= 3.0</br>
 * pytube >= 9.0</br>
 
-Use pip command given below to install pytube
+Use pip command given below to install pytube</br>
 ```
 pip install pytube
 ```
